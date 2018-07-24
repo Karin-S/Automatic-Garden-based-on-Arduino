@@ -1,0 +1,8 @@
+The list of hareware:
+1. Arduino Due
+2. WiFi module Esp8266 mini
+3. Temperature and humidity sensor
+4. Arduino Compatible Photosensitive LDR Sensor Module
+5. Relay
+6. Water pump
+7. Led
